@@ -18,7 +18,7 @@ Think of it as a mini research assistant trained on one article.
 
 ---
 
-## 📸 Example in action
+## Example
 
 **You ask:**  
 > *"What are some emerging use cases for agentic AI?"*

@@ -4,7 +4,7 @@ Welcome to my little experiment in making GenAI more useful, searchable, and con
 This project started as a curiosity:  
 > *Can I build something that reads an article, understands it, and answers my questions like a smart assistant?*
 
-## 🧠 What this project does?
+## What this project does?
 
 This notebook pulls together the core pieces of a Retrieval-Augmented Generation (RAG) pipeline:
 
@@ -32,17 +32,16 @@ And it tells you *exactly* which part of the article that info came from. No hal
 
 ## 🛠️ Stack
 
-- 🧱 **LangChain** – for orchestration, parsing, chunking
-- 💬 **OpenAI (GPT-4o)** – for generating natural answers
-- 🧠 **FAISS** – for fast, local semantic search
-- 🌐 **WebBaseLoader** – scrapes the article
-- 📦 **.env** – stores your API keys securely
+- **LangChain** – for orchestration, parsing, chunking
+- **OpenAI (GPT-4o)** – for generating natural answers
+- **FAISS** – for fast, local semantic search
+- **WebBaseLoader** – scrapes the article
+- **.env** – stores your API keys securely
 
 ---
 
-## 🚀 How to run it
-
-1. **Clone the repo:**
+## How to run it?
+**Clone the repo:**
 
 ```bash
 git clone git@github.com:harshini-puduri/Simple-GenAI-application.git

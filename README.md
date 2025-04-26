@@ -1,1 +1,1 @@
-A Simple GENAI application using LangChain adn OpenAI
+A Simple GENAI application using LangChain and OpenAI

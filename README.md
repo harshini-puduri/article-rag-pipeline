@@ -1,4 +1,4 @@
-# Simple GenAI Application — Exploring Agentic AI with LangChain + OpenAI
+# Simple GenAI Application — Exploring articles with LangChain + OpenAI
 
 Welcome to my little experiment in making GenAI more useful, searchable, and context-aware!
 This project started as a curiosity:  

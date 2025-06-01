@@ -14,7 +14,7 @@ All responses are based directly on the article — no hallucinations.
 
 ---
 
-# Stack
+### Stack
 - LangChain
 - OpenAI (Embeddings + GPT-4o)
 - FAISS
